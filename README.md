@@ -1,4 +1,4 @@
-# nyt_app
+# nyt_app: a Flutter front-end and Node.js back-end app that displays the top 10 articles on New York Times
 
 # first run: 
 # node server.js 
